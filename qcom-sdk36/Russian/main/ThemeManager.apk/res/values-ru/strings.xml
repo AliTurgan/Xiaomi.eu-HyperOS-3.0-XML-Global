@@ -1797,6 +1797,7 @@ mm"</string>
     <string name="theme_component_title_notification">Уведомление</string>
     <string name="theme_component_title_others">XXXXXX</string>
     <string name="theme_component_title_photo_frame">Фоторамка</string>
+    <string name="theme_component_title_rear_screen">Задний экран</string>
     <string name="theme_component_title_ringtone">Мелодия</string>
     <string name="theme_component_title_statusbar">Строка состояния</string>
     <string name="theme_component_title_wallpaper">Рабочий стол</string>
