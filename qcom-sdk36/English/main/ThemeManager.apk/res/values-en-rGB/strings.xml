@@ -1030,7 +1030,7 @@ mm"</string>
     <string name="need_permission_a">Welcome to Themes!</string>
     <string name="need_permission_b">Give your device a new look</string>
     <string name="need_permission_des_b">See what Themes has to offer</string>
-    <string name="network_unusable">网络不可用，请检查网络连接</string>
+    <string name="network_unusable">Network unavailable. Please, check your internet connection.</string>
     <string name="network_unusable_time_err_toast">"Can't connect to the network. Check the date and time settings and try again."</string>
     <string name="new_devices_push_titl_content">"We've got what you need"</string>
     <string name="new_devices_push_title">New phone, new theme</string>
@@ -1054,7 +1054,7 @@ mm"</string>
     <string name="not_support_subtitle">"Contact your organisation's IT support or switch accounts"</string>
     <string name="not_support_title">"Can't use Themes when using a work profile"</string>
     <string name="notify_style">Always-on display notifications</string>
-    <string name="obtain_app_info_fail">获取应用信息失败</string>
+    <string name="obtain_app_info_fail">Failed to retrieve application information</string>
     <string name="off">Off</string>
     <string name="on">On</string>
     <string name="online_no_network">"Can't connect to the network"</string>
